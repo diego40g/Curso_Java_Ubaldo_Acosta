@@ -23,6 +23,10 @@ public class Variables {
         System.out.println(miVaraibleCadena);
         miVaraibleCadena="Adios";
         System.out.println(miVaraibleCadena);
+        
+        //var-Inferencia de tipos en Java
+        var miVariableEntera2=10;
+        
     }
     
 }
