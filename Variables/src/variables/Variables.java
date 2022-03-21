@@ -26,7 +26,7 @@ public class Variables {
         
         //var-Inferencia de tipos en Java
         var miVariableEntera2=10;
-        
+        System.out.println(miVariable2);
     }
     
 }
